@@ -77,5 +77,8 @@
 
 + **L:** Time Series
 + **M:** Airflow / MLFlow
-+ **X:** Cloud             (Sesion 3 Outcomes 9:30-10:30)
++ **X:** Inicio Proyecto Final (Sesion 3 Outcomes 9:30-10:30)
 
+### Semana 9 - Final
+
++ **V:** Presentación Proyesto Final

@@ -18,7 +18,7 @@
 
 + **L:** Álgebra / Numpy / Intro Pandas
 + **M:** Pandas Deepdive
-+ **X:** Data Cleaning      (Sesion 1 Outcomes 9:30-10:30)
++ **X:** Data Cleaning      
 + **J:** Data Cleaning 2
 + **V:** Proyecto Limpieza (Sharks)
 
@@ -28,7 +28,7 @@
 
 + **L:** Intro bases de datos / SQL
 + **M:** SQL Queries
-+ **X:** SQL en Python / Postgres
++ **X:** SQL en Python / Postgres **(Sesion 1 Outcomes 9:00-10:00)**
 + **J:** MongoDB /Geolocalización
 + **V:** Proyecto Database (Crear una base de datos)
 
@@ -37,7 +37,7 @@
 
 + **L:** Estructura de la web / APIs
 + **M:** RSS / Web scraping(bs4)
-+ **X:** Web scraping(selenium) / Automatización  (Sesion 2 Outcomes 9:30-10:30)
++ **X:** Web scraping(selenium) / Automatización  
 + **J:** Paralelización / Multiprocesos
 + **V:** Proyecto ETL
 
@@ -45,7 +45,7 @@
 
 ### Semana 5 - Estadística descriptiva y visualización
 
-+ **L:** Estadística descriptiva / Ejemplo CLV
++ **L:** Estadística descriptiva / Ejemplo CLV  **(Sesion 2 Outcomes 9:00-10:00)**
 + **M:** Visualización en Python 
 + **X:** Tableau
 + **J:** PowerBI
@@ -65,7 +65,7 @@
 
 ### Semana 7 - Machine Learning
 
-+ **L:** Intro a Machine Learning / Aprendizaje supervisado
++ **L:** Intro a Machine Learning / Aprendizaje supervisado  **(Sesion 3 Outcomes 9:00-10:00)**
 + **M:** Evaluación / Ajuste 
 + **X:** Seleccion de caracteristicas
 + **J:** Aprendizaje no supervisado / Evaluación
@@ -77,7 +77,7 @@
 
 + **L:** Time Series
 + **M:** Airflow / MLFlow
-+ **X:** Inicio Proyecto Final (Sesion 3 Outcomes 9:30-10:30)
++ **X:** Inicio Proyecto Final 
 
 ### Semana 9 - Final
 

@@ -28,7 +28,7 @@
 
 + **L:** Intro bases de datos / SQL
 + **M:** SQL Queries
-+ **X:** SQL en Python / Postgres (Sesion 1 Outcomes 9:00-10:00)
++ **X:** SQL en Python / Postgres **(Sesion 1 Outcomes 9:00-10:00)**
 + **J:** MongoDB /Geolocalización
 + **V:** Proyecto Database (Crear una base de datos)
 
@@ -45,7 +45,7 @@
 
 ### Semana 5 - Estadística descriptiva y visualización
 
-+ **L:** Estadística descriptiva / Ejemplo CLV (Sesion 2 Outcomes 9:00-10:00)
++ **L:** Estadística descriptiva / Ejemplo CLV  **(Sesion 2 Outcomes 9:00-10:00)**
 + **M:** Visualización en Python 
 + **X:** Tableau
 + **J:** PowerBI
@@ -65,7 +65,7 @@
 
 ### Semana 7 - Machine Learning
 
-+ **L:** Intro a Machine Learning / Aprendizaje supervisado (Sesion 3 Outcomes 9:00-10:00)
++ **L:** Intro a Machine Learning / Aprendizaje supervisado  **(Sesion 3 Outcomes 9:00-10:00)**
 + **M:** Evaluación / Ajuste 
 + **X:** Seleccion de caracteristicas
 + **J:** Aprendizaje no supervisado / Evaluación
